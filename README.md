@@ -24,7 +24,7 @@ of the uncorrelated given input features.
 
 # Dataset
 The Credit Card Dataset was used, the link for which is https://www.kaggle.com/arjunbhasin2013/ccdata
-The dataset summarizes the usage behavior of about 9000 active credit card holders during a period of 6 months. The file is at a customer level with 18 behavioral variables.
+The dataset summarizes the usage behavior of about 9000 active credit card holders during a period of 6 months. The data is at a customer level with 18 behavioral variables.
 
 The variables are:
 CUSTID: Identification of Credit Card holder <br />
